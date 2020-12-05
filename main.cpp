@@ -1,7 +1,5 @@
 /*
-Student Name: Devanshi Paliwal, Tara Rao-Pandit
-Student Number: 20906832, 20885476
-SYDE 121 Assignment #5
+Contributors: Tara Rao-Pandit, Devanshi Paliwal
 Filename: main.cpp
 
 I hereby declare that this code, submitted for credit for the course SYDE 121, is a product of our own efforts.
